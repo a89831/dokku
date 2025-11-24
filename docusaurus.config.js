@@ -29,7 +29,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'a89831', // Usually your GitHub org/user name.
   projectName: 'dokku', // Usually your repo name.
-  deploymentBranch: 'static-page',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
